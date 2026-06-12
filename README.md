@@ -47,7 +47,6 @@ A developer and analyst bridging the gap between rigorous software engineering, 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-*(Note: Creative suite and gaming badges have been omitted here to keep the profile strictly focused on technical recruitment optimization.)*
 
 ---
 
