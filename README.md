@@ -11,7 +11,7 @@
 </p>
 
 ### Robotics and Artificial Intelligence Engineering
-creating low-latency embedded systems, predictive machine learning pipelines, and scalable software structures.
+Creating low-latency embedded systems, predictive machine learning pipelines, and scalable software structures.
 ---
 
 ## Technical Competencies
